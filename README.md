@@ -37,7 +37,7 @@ You can also set-up automations within your Shortcuts app to run the WeatherHTML
 
 Join the iNNOVATION discord server to get support (in case you are experiencing any issues with the installation). You can alos find a great theme library.
 
-[iNNOCATION Discord Channel](https://discord.gg/yf79veT9Up)     
+[iNNOVATION Discord Channel](https://discord.gg/yf79veT9Up)     
 
 
 Requirements: iOS 15 +.
