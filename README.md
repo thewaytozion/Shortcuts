@@ -17,17 +17,17 @@ You need to install 3 Shortcuts (2 Modules and the WeatherHTML shortcut itself):
 
 Modules:
 
-- JustWeather2.0 :                           https://www.icloud.com/shortcuts/ea21cdd59ba645be89f8f861ac4d6819
-- HTMLModul :                                 https://www.icloud.com/shortcuts/c3c338a66a2340d3bdf6e6b55037aaea
+- JustWeather2.0 : [a link](https://www.icloud.com/shortcuts/ea21cdd59ba645be89f8f861ac4d6819)                          
+- HTMLModul : [a link](https://www.icloud.com/shortcuts/c3c338a66a2340d3bdf6e6b55037aaea)                                                          
 
 Main Shortcut:
 
-- WeatherHTML2.0 :                      https://www.icloud.com/shortcuts/f3b7510f9fdd4654ac9622fa3808bbe1
+- WeatherHTML2.0 :[a link](https://www.icloud.com/shortcuts/f3b7510f9fdd4654ac9622fa3808bbe1)                      
 
 
 In additon you need to unzip the following data to your iCloud-drive:
 
-- Download:                          https://app.box.com/s/87tepbkew6ui33gaattdwrrc0bd0ckv8  (78 MB) 
+- Download: [a link](https://app.box.com/s/87tepbkew6ui33gaattdwrrc0bd0ckv8)                           (78 MB) 
 - Save it to /Shortcuts/iOSWeather/ (you may need to create the folder "iOSWeather" to your Shortcuts folder)
 - Extract from there
 
@@ -37,7 +37,8 @@ You can also set-up automations within your Shortcuts app to run the WeatherHTML
 
 Join the iNNOVATION discord server to get support (in case you are experiencing any issues with the installation). You can alos find a great theme library.
 
-https://discord.gg/yf79veT9Up
+[a link](https://discord.gg/yf79veT9Up)     
+
 
 Requirements: iOS 15 +.
 
