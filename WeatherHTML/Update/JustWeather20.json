@@ -376,7 +376,25 @@
       "KÖDÖS": "12"
    },
    "id": {
-      "NOT STARTED": "51"
+      "CERAH": "1",
+      "SEBAGIAN BERAWAN": "2",
+      "BERAWAN": "4",
+      "GERIMIS": "5",
+      "HUJAN": "6",
+      "HUJAN LEBAT": "6",
+      "BERANGIN": "7",
+      "BADAI PETIR": "8",
+      "SALJU": "9",
+      "SALJU DI BEBERAPA TEMPAT": "9",
+      "HUJAN ES/HUJAN CAMPURAN": "10",
+      "SALJU LEBAT/SALJU BASAH": "11",
+      "EMBUSAN SALJU": "11",
+      "KABUT": "12",
+      "KABUT TIPIS": "12",
+      "DEBU": "12",
+      "ASAP": "13",
+      "TORNADO": "14",
+      "SUHU DINGIN": "50"
    },
    "it": {
       "SERENO": "1",
