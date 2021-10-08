@@ -1,4 +1,13 @@
-{  "da": {
+{  "ar": {
+      "NOT STARTED": "51"
+   },
+   "ca": {
+      "NOT STARTED": "51"
+   },
+   "cz": {
+      "NOT STARTED": "51"
+   },
+   "da": {
       "KLART": "1",
       "MEST SOLRIGT": "1",
       "MEST KLART": "1",
@@ -173,7 +182,10 @@
       "HURACAN": "14",
       "TEMPERATURAS CONGELANTES": "50"
    },
-    "fr": {
+   "fi": {
+      "NOT STARTED": "51"
+   },
+   "fr": {
       "SANS NUAGE": "1",
       "AUCUN NUAGE": "1",
       "DÉGAGÉ": "1",
@@ -205,6 +217,12 @@
       "LUMINEUX": "14",
       "TEMPERATURES FROIDES": "50",
       "CHAUD": "51"
+   },
+   "he": {
+      "NOT STARTED": "51"
+   },
+   "hi": {
+      "NOT STARTED": "51"
    },
    "hr": {
       "MJESTIMIČNI SNJEŽNI  PLJUSKOVI": "10",
@@ -267,6 +285,9 @@
       "KÖD": "12",
       "KÖDÖS": "12"
    },
+   "id": {
+      "NOT STARTED": "51"
+   },
    "it": {
       "SERENO": "1",
       "PREVALENTEMENTE SERENO": "1",
@@ -296,6 +317,9 @@
       "URAGANO": "14",
       "GHIACCIATO": "50",
       "CALDO": "51"
+   },
+   "ja": {
+      "NOT STARTED": "51"
    },
    "ko": {
       "맑음": "1",
@@ -335,6 +359,9 @@
       "매우 추움": "50",
       "폭염": "51",
       "매우 더움": "51"
+   },
+   "ms": {
+      "NOT STARTED": "51"
    },
    "nl": {
       "HEVIGE SNEEUW": "11",
@@ -382,6 +409,12 @@
       "HEET": "51",
       "HELDER": "1"
    },
+   "no": {
+      "NOT STARTED": "51"
+   },
+   "pl": {
+      "NOT STARTED": "51"
+   },
    "pt": {
       "CÉU LIMPO": "1",
       "LIMPO": "1",
@@ -417,6 +450,15 @@
       "FURAÇÃO": "14",
       "TEMPERATURAS GELADAS": "50",
       "CALOR": "51"
+   },
+   "ro": {
+      "NOT STARTED": "51"
+   },
+   "ru": {
+      "NOT STARTED": "51"
+   },
+   "sk": {
+      "NOT STARTED": "51"
    },
    "sv": {
       "SOLIGT": "1",
@@ -454,6 +496,15 @@
       "ORKAN": "14",
       "KYLIGA TEMPERATURER": "50",
       "VARMT": "51"
+   },
+   "th": {
+      "NOT STARTED": "51"
+   },
+   "tr": {
+      "NOT STARTED": "51"
+   },
+   "uk": {
+      "NOT STARTED": "51"
    },
    "vi": {
       "TRỜI NẮNG": "1",
