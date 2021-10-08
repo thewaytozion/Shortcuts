@@ -37,7 +37,25 @@
       "HOT": "51"
    },
    "ca": {
-      "NOT STARTED": "51"
+      "CLAR": "1",
+      "PARCIALMENT ENNUVOLAT": "2",
+      "ENNUVOLAT": "4",
+      "PLOVISQUEIG": "5",
+      "RUIXATS": "6",
+      "PLUGES INTENSES": "6",
+      "VENT": "7",
+      "TEMPESTES": "8",
+      "NEU": "9",
+      "NEVADA DISPERSA": "9",
+      "CALAMARSA / PLUJA I PEDRA": "10",
+      "NEVADA AMB VENT": "11",
+      "NEVADES FORTES / AIGUANEU": "11",
+      "CALIMA": "12",
+      "BOIRA": "12",
+      "POLS": "12",
+      "FUM": "13",
+      "TORNADO": "14",
+      "TEMPERATURES GELADES": "50"
    },
    "cz": {
       "NOT STARTED": "51"
