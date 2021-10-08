@@ -18,16 +18,16 @@ You need to install 3 Shortcuts (2 Modules and the WeatherHTML shortcut itself):
 Modules:
 
 - JustWeather2.0 : [JustWeather2.0](https://www.icloud.com/shortcuts/ea21cdd59ba645be89f8f861ac4d6819)                          
-- HTMLModul : [HTMLModul](https://www.icloud.com/shortcuts/c3c338a66a2340d3bdf6e6b55037aaea)                                                          
+- HTMLModul :      [HTMLModul](https://www.icloud.com/shortcuts/c3c338a66a2340d3bdf6e6b55037aaea)                                                          
 
 Main Shortcut:
 
-- WeatherHTML2.0 :[WeatherHTML2.0](https://www.icloud.com/shortcuts/f3b7510f9fdd4654ac9622fa3808bbe1)                      
+- WeatherHTML2.0 : [WeatherHTML2.0](https://www.icloud.com/shortcuts/f3b7510f9fdd4654ac9622fa3808bbe1)                      
 
 
 In additon you need to unzip the following data to your iCloud-drive:
 
-- Download: [WeatherHTML File System](https://app.box.com/s/87tepbkew6ui33gaattdwrrc0bd0ckv8)                           (78 MB) 
+- Download:        [WeatherHTML File System](https://app.box.com/s/87tepbkew6ui33gaattdwrrc0bd0ckv8)                           (78 MB) 
 - Save it to /Shortcuts/iOSWeather/ (you may need to create the folder "iOSWeather" to your Shortcuts folder)
 - Extract from there
 
