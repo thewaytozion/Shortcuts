@@ -153,7 +153,7 @@
       "SCATTERED SHOWERS": "5",
       "SHOWERS": "6",
       "HEAVY SHOWERS": "6",
-      "HEAVY West RAIN": "6",
+      "HEAVY WEST RAIN": "6",
       "WINDY": "7",
       "SCATTERED THUNDERSTORMS": "8",
       "ISOLATED THUNDERSHOWERS": "8",
@@ -218,7 +218,25 @@
       "TEMPERATURAS CONGELANTES": "50"
    },
    "fi": {
-      "NOT STARTED": "51"
+      "SELKEÄÄ": "1",
+      "PUOLIPILVISTÄ": "2",
+      "PILVISTÄ": "4",
+      "TIHKUSADETTA": "5",
+      "SADEKUUROJA": "6",
+      "VOIMAKKAITA SADEKUUROJA": "6",
+      "TUULISTA": "7",
+      "UKKOSMYRSKYÄ": "8",
+      "LUNTA": "9",
+      "HAJANAISTA LUMISADETTA": "9",
+      "VESI- JA RAEKUUROJA": "10",
+      "SAKEAA LUMI- JA RÄNTÄSADETTA": "11",
+      "LUMITUISKUA": "11",
+      "SUMUISTA": "12",
+      "USVAISTA": "12",
+      "PÖLYÄ": "12",
+      "SAVUA": "13",
+      "TORNADO": "14",
+      "KYLMÄ SÄÄ": "50"
    },
    "fr": {
       "SANS NUAGE": "1",
