@@ -23,7 +23,24 @@
       "TEMPERATURES GELADES": "50"
    },
    "cz": {
-      "NOT STARTED": "51"
+      "JASNO": "1",
+      "ČÁSTEČNĚ ZATAŽENO": "2",
+      "OBLAČNO": "4",
+      "MRHOLENÍ": "5",
+      "PŘEHÁŇKY": "6",
+      "SILNÉ PŘEHÁŇKY": "6",
+      "VĚTRNO": "7",
+      "BOUŘKY": "8",
+      "SNĚŽENÍ": "9",
+      "DÉŠŤ SMÍŠENÝ S KRUPOBITÍM": "10",
+      "OBČASNÉ SNĚŽENÍ": "11",
+      "SNĚHOVÁ VÁNICE": "11",
+      "MLHA": "12",
+      "OPAR": "12",
+      "PRACH": "12",
+      "KOUŘ": "13",
+      "TORNÁDO": "14",
+      "VELMI NÍZKÉ TEPLOTY": "50"
    },
    "da": {
       "KLART": "1",
