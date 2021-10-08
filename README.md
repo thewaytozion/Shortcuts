@@ -28,8 +28,18 @@ Main Shortcut:
 In additon you need to unzip the following data to your iCloud-drive:
 
 - Download:                          https://app.box.com/s/87tepbkew6ui33gaattdwrrc0bd0ckv8  (78 MB) 
-- Save it to /Shortcuts/iOSWeather/
+- Save it to /Shortcuts/iOSWeather/ (you may need to create the folder "iOSWeather" to your Shortcuts folder)
 - Extract from there
+
+Once done, open your Shortcuts app and run the WeatherHTML2.0 shortcut (you have to give several permissions, agree to all and settigns will bes saved). 
+
+You can also set-up automations within your Shortcuts app to run the WeatherHTML2.0 e.g. every hour! Then you will have up to date weather data on your screen.
+
+Join the iNNOVATION discord server to get support (in case you are experiencing any issues with the installation). You can alos find a great theme library.
+
+https://discord.gg/yf79veT9Up
+
+Requirements: iOS 15 +.
 
 Enjoy
 Eric
