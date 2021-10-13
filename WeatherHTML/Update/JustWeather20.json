@@ -707,7 +707,26 @@
       "NOT STARTED": "51"
    },
    "tr": {
-      "NOT STARTED": "51"
+      "AÇIK": "1",
+      "MOSTLY CLEAR": "1",
+      "PARÇALI BULUTLU": "2",
+      "BULUTLU": "4",
+      "ÇISE": "5",
+      "SAĞANAK YAĞIŞ": "6",
+      "ŞIDDETLI SAĞANAK YAĞIŞLI": "6",
+      "RÜZGÂRLI": "7",
+      "GÖK GÜRÜLTÜLÜ FIRTINA": "8",
+      "KAR": "9",
+      "ARALIKLI KAR YAĞIŞI": "9",
+      "DOLUYLA KARIŞIK YAĞMUR": "10",
+      "ŞIDDETLI KAR YAĞIŞI/SULU KAR": "11",
+      "TIPI": "11",
+      "SISLI": "12",
+      "PUSLU": "12",
+      "TOZLU": "12",
+      "DUMANLI": "13",
+      "KASIRGA": "14",
+      "ÇOK SOĞUK HAVA KOŞULLARI": "50"
    },
    "uk": {
       "NOT STARTED": "51"
