@@ -624,7 +624,25 @@
       "NOT STARTED": "51"
    },
    "pl": {
-      "NOT STARTED": "51"
+      "BRAK CHMUR": "1",
+      "TROCHĘ CHMUR": "2",
+      "CHMURY": "4",
+      "MŻAWKA": "5",
+      "PRZELOTNE OPADY": "6",
+      "SILNE OPADY": "6",
+      "WIATR": "7",
+      "BURZE": "8",
+      "ŚNIEG": "9",
+      "LOKALNE OPADY ŚNIEGU": "9",
+      "DESZCZ Z GRADEM": "10",
+      "INTENSYWNY ŚNIEG, DESZCZ ZE ŚNIEGIEM": "11",
+      "ZAWIEJE ŚNIEŻNE": "11",
+      "MGŁA": "12",
+      "MGIEŁKA": "12",
+      "KURZ": "12",
+      "DYM": "13",
+      "TORNADO": "14",
+      "NISKIE TEMPERATURY": "50"
    },
    "pt": {
       "CÉU LIMPO": "1",
