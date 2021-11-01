@@ -685,7 +685,26 @@
       "CALOR": "51"
    },
    "ro": {
-      "NOT STARTED": "51"
+      "SENIN": "1",
+      "PARȚIAL ÎNNORAT": "2",
+      "ÎNNORAT": "4",
+      "REGEN": "5",
+      "BURNIȚĂ": "5",
+      "AVERSE": "6",
+      "AVERSE PUTERNICE": "6",
+      "VÂNT PUTERNIC": "7",
+      "FURTUNI": "8",
+      "NINSOARE": "9",
+      "NINSORI RĂZLEȚE": "9",
+      "LAPOVIȚĂ/PRECIPITAȚII MIXTE": "10",
+      "ZĂPADĂ SPULBERATĂ": "11",
+      "NINSOARE/LAPOVIȚĂ PUTERNICĂ": "11",
+      "PÂCLĂ": "12",
+      "CEAȚĂ": "12",
+      "PRAF": "12",
+      "FUM": "13",
+      "TORNADĂ": "14",
+      "GER": "50"
    },
    "ru": {
       "NOT STARTED": "51"
