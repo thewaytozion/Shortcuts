@@ -687,8 +687,9 @@
    "ro": {
       "SENIN": "1",
       "PARȚIAL ÎNNORAT": "2",
+      "PREDOMINANT ÎNNORAT": "3",
       "ÎNNORAT": "4",
-      "REGEN": "5",
+      "AVERSE RĂZLEȚE": "5",
       "BURNIȚĂ": "5",
       "AVERSE": "6",
       "AVERSE PUTERNICE": "6",
