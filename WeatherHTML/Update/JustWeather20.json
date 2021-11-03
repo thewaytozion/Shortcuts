@@ -711,7 +711,28 @@
       "NOT STARTED": "51"
    },
    "sk": {
-      "NOT STARTED": "51"
+      "JASNO": "1",
+      "ČIASTOČNE ZAMRAČENÉ": "2",
+      "PREVAŽNE ZAMRAČENÉ": "3",
+      "OBLAČNO": "4",
+      "ZAMRAČENÉ": "4",
+      "MRHOLENIE": "5",
+      "DÁŽĎ": "5",
+      "PREHÁNKY": "6",
+      "SILNÉ PREHÁNKY": "6",
+      "VETERNO": "7",
+      "BÚRKY": "8",
+      "SNEŽENIE": "9",
+      "MIESTAMI SNEŽENIE": "9",
+      "KRÚPY/DÁŽĎ": "10",
+      "FUJAVICA": "11",
+      "SILNÉ SNEŽENIE/DÁŽĎ SO SNEHOM": "11",
+      "OPAR": "12",
+      "HMLISTO": "12",
+      "PRAŠNO": "12",
+      "DYMNO": "13",
+      "TORNÁDO": "14",
+      "MRAZIVÉ TEPLOTY": "50"
    },
    "sv": {
       "SOLIGT": "1",
