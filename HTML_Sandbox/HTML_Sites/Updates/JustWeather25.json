@@ -242,6 +242,8 @@
       "SNOW": "9",
       "HAIL": "9",
       "LIGHT SNOW SHOWERS": "9",
+      "FLURRIES": "9",
+      "SNOW FLURRIES": "9",
       "HAIL/MIXED RAIN": "10",
       "MIXED RAIN AND SNOW": "10",
       "FREEZING RAIN": "10",
