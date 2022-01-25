@@ -1,4 +1,4 @@
-# Shortcuts - WeatherHTML for your iPhone
+# Shortcuts - HTML Sandbox for your iPhone
 
 
 Hello Community,
