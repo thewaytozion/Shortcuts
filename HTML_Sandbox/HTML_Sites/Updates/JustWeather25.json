@@ -352,6 +352,7 @@
       "FORTES PLUIES": "6",
       "PLUIE d": "6",
       "VENTEUX": "7",
+      "ORAGES ISOLÉS": "7",
       "VENT": "7",
       "ORAGE": "8",
       "ORAGES ÉPARS": "8",
@@ -477,6 +478,7 @@
    "hu": {
       "DERÜLT": "1",
       "NAPOS": "1",
+      "TÖBBNYIRE DERÜLT": "1",
       "TÚLNYOMÓAN DERŰS": "1",
       "RÉSZBEN FELHŐS": "2",
       "JOBBÁRA FELHŐS": "3",
@@ -582,6 +584,7 @@
    },
    "ko": {
       "맑음": "1",
+      "청명함": "1",
       "지우기": "1",
       "대체로 청명함": "1",
       "부분적으로 흐림": "2",
@@ -654,6 +657,7 @@
       "LICHT BEWOLKT": "1",
       "HALF­BEWOLKT": "2",
       "HALF BEWOLKT": "2",
+      "HALFBEWOLKT": "2",
       "OVERWEGEND BEWOLKT": "3",
       "MEESTAL BEWOLKT": "3",
       "BEWOLKT": "4",
