@@ -153,6 +153,7 @@
    "de": {
       "WOLKENLOS": "1",
       "MEIST WOLKENLOS": "1",
+      "MEIST SONNIG": "1",
       "TEILWEISE BEWÖLKT": "2",
       "TEILS BEWÖLKT": "2",
       "MEIST BEWÖLKT": "3",
@@ -224,6 +225,7 @@
    "en": {  
       "CLEAR": "1",
       "MOSTLY CLEAR": "1",
+      "MOSTLY SUNNY": "1",
       "PARTLY CLOUDY": "2",
       "MOSTLY CLOUDY": "3",
       "CLOUDY": "4",
@@ -271,6 +273,7 @@
       "SOLEADO": "1",
       "DESPEJADO": "1",
       "MAYORMENTE DESPEJADO": "1",
+      "MAYORMENTE SOLEADO": "1",
       "PARCIALMENTE": "2",
       "PARCIALMENTE NUBLADO": "2",
       "MAYORMENTE NUBLADO": "3",
