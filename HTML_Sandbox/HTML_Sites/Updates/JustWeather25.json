@@ -152,6 +152,7 @@
    },
    "de": {
       "WOLKENLOS": "1",
+      "SONNIG": "1",
       "MEIST WOLKENLOS": "1",
       "MEIST SONNIG": "1",
       "TEILWEISE BEWÖLKT": "2",
@@ -224,6 +225,7 @@
    },
    "en": {  
       "CLEAR": "1",
+      "SUNNY": "1",
       "MOSTLY CLEAR": "1",
       "MOSTLY SUNNY": "1",
       "PARTLY CLOUDY": "2",
@@ -348,6 +350,7 @@
    },
    "fr": {
       "SANS NUAGE": "1",
+      "BELLES ÉCLAIRCIES": "1",
       "AUCUN NUAGE": "1",
       "DÉGAGÉ": "1",
       "PARTIELLEMENT NUAGEUX": "2",
