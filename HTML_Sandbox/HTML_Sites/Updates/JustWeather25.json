@@ -124,6 +124,7 @@
    "da": {
       "KLART": "1",
       "MEST KLART VEJR": "1",
+      " MEST KLART VEJR": "1",
       " KLART VEJR": "1",
       "MEST SOLRIGT": "1",
       " MEST SOLRIGT": "1",
@@ -205,6 +206,7 @@
       "HAGEL/EISREGEN": "10",
       "HAGEL/REGENGEMISCH": "10",
       "SCHNEETREIBEN": "11",
+      "SCHNEEGESTÖBER": "11",
       "HEFTIGE SCHNEE-/GRAUPELSCHAUER": "11",
       "STARKER SCHNEEFALL/GRAUPEL": "11",
       "DUNST": "12",
