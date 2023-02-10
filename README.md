@@ -11,7 +11,7 @@ Official Shortcut available on
 [iNNOVATION Discord Channel](https://discord.gg/yf79veT9Up)     
 
 
-Requirements: iOS 15 +.
+Requirements: iOS 16 +.
 
 Enjoy
 Eric
